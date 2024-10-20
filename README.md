@@ -1,5 +1,5 @@
 # Lab-SSTI
-The aim of this project is to demonstrate an SSTI vulnerability. How its use and how to avoid it. 
+The aim of this project is to demonstrate a SSTI vulnerability. How its use and how to avoid it. 
 
 Requirement:
 -you must have docker install and open on your machine.
